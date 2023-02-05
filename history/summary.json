@@ -6,15 +6,15 @@
     "slug": "profi",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 2214,
-    "timeDay": 2313,
-    "timeWeek": 2237,
-    "timeMonth": 2222,
-    "timeYear": 2214,
+    "time": 2217,
+    "timeDay": 2507,
+    "timeWeek": 2194,
+    "timeMonth": 2223,
+    "timeYear": 2217,
     "dailyMinutesDown": {
       "2023-02-03": 20
     }
