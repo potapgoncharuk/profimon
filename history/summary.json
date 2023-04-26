@@ -4,7 +4,7 @@
     "url": "https://profi-store.shop/",
     "icon": "https://icons.duckduckgo.com/ip3/profi-store.shop.ico",
     "slug": "profi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2406,
     "timeYear": 2250,
     "dailyMinutesDown": {
+      "2023-04-26": 0,
       "2023-04-11": 106,
       "2023-03-01": 24,
       "2023-02-03": 20
