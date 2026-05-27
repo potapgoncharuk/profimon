@@ -1,7 +1,7 @@
 url: https://profi-store.shop/
-status: up
-code: 200
-responseTime: 1304
-lastUpdated: 2026-05-26T23:58:37.294Z
+status: down
+code: 429
+responseTime: 398
+lastUpdated: 2026-05-27T06:08:34.819Z
 startTime: 2022-11-01T19:05:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
