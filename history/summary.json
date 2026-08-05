@@ -4,17 +4,17 @@
     "url": "https://profi-store.shop/",
     "icon": "https://icons.duckduckgo.com/ip3/profi-store.shop.ico",
     "slug": "profi",
-    "status": "down",
+    "status": "up",
     "uptime": "82.78%",
-    "uptimeDay": "92.78%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "35.36%",
+    "uptimeDay": "86.28%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "35.34%",
     "time": 1231,
-    "timeDay": 836,
-    "timeWeek": 1217,
-    "timeMonth": 1176,
-    "timeYear": 1159,
+    "timeDay": 900,
+    "timeWeek": 1201,
+    "timeMonth": 1172,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2025-10-23": 1431,
       "2025-10-22": 1440,
@@ -275,7 +275,7 @@
       "2026-07-27": 65,
       "2026-08-01": 124,
       "2026-08-02": 63,
-      "2026-08-05": 104
+      "2026-08-05": 198
     }
   }
 ]
